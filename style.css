@@ -45,6 +45,16 @@ header
    float: right;
 }
 
+.foot li a{
+   color: white;
+   text-decoration: none;
+}
+
+.foot li a:hover
+{
+  color: black;
+}
+
 .main-nav
 {
   float: right;
@@ -66,6 +76,14 @@ header
   font-size: 40px;
 }
 
+.main-nav li a
+{
+  color: White;
+  text-decoration: none;
+  padding: 5px 10px;
+  font-family: 'ostrich_sansheavy';
+  font-size: 40px;
+}
 .main-nav li.active a
 {
   border: 1px solid white;
