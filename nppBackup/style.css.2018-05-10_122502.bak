@@ -31,34 +31,10 @@ p{
 
 header
 {
-
-}
-body#HomeBody{
-background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(BannerImage.jpg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(BannerImage.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
-}
-.Site {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-.Site-content {
-  flex: 1;
-}
-
-.footer#HomeFooter {
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   height: auto;
-   padding: 10px 30px;
-   background: rgba(255, 0, 0, 0.7); /* Black background with 80% opacity */
-   color: white;
-   text-align: right;
-   float: right;
 }
 
 .footer {
@@ -67,18 +43,18 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(B
    width: 100%;
    height: auto;
    padding: 10px 30px;
-   background-color:red;
+   background-color: red;
    color: white;
    text-align: right;
    float: right;
 }
 
-.foot a{
+.foot li a{
    color: white;
    text-decoration: none;
 }
 
-.foot a:hover
+.foot li a:hover
 {
   color: black;
 }
@@ -136,13 +112,12 @@ body
 
 .row
 {
-  max-width: 100%;
+  max-width: 90%;
   margin: auto;
 }
 
 .header-background{
-  background: rgba(0, 0, 0, 0.7); /* Black background with 80% opacity */
-  width: 100%
+  background: rgba(0, 0, 0, 0.8); /* Black background with 80% opacity */
 }
 
 .hero
@@ -173,13 +148,11 @@ body
 h2.white
 {
 	color: white;
-	font-weight: normal;
 }
 
 h1.white
 {
 	color: white;
-
 }
 
 
@@ -270,13 +243,4 @@ span
     color: black;
     text-decoration: none;
     cursor: pointer;
-}
-
-#navbar {
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
 }

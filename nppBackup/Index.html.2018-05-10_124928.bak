@@ -4,7 +4,7 @@
     <title>H.O.P.E. House</title>
     <link href="style.css" rel="stylesheet" type="text/css"
   </head>
-  <body class="Site" id="HomeBody">
+  <body class="Site">
   
       <header>
           <div id="navbar">
@@ -71,14 +71,12 @@
 		
 	</main>
 	<footer>
-  <div class="footer" id="HomeFooter">
-	<div class="foot">
+  <div class="footer">
       Contact Information<br>
       <a href="">Phone: 999-888-0000</a><br>
       <a href="">Email: hopehouse@brentwoodumc.org</a><br>
       <a href="">Address: 218 Pine Street, Brentwood, CA 94513</a><br>
     </ul>
-	</div>
   </div>
   </footer>
 </body>

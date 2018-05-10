@@ -33,32 +33,11 @@ header
 {
 
 }
-body#HomeBody{
+body{
 background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(BannerImage.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
-}
-.Site {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-.Site-content {
-  flex: 1;
-}
-
-.footer#HomeFooter {
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   height: auto;
-   padding: 10px 30px;
-   background: rgba(255, 0, 0, 0.7); /* Black background with 80% opacity */
-   color: white;
-   text-align: right;
-   float: right;
 }
 
 .footer {
@@ -67,18 +46,18 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(B
    width: 100%;
    height: auto;
    padding: 10px 30px;
-   background-color:red;
+   background-color: red;
    color: white;
    text-align: right;
    float: right;
 }
 
-.foot a{
+.foot li a{
    color: white;
    text-decoration: none;
 }
 
-.foot a:hover
+.foot li a:hover
 {
   color: black;
 }

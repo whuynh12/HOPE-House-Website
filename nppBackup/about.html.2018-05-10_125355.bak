@@ -4,7 +4,7 @@
     <title>H.O.P.E. House</title>
     <link href="style.css" rel="stylesheet" type="text/css"
   </head>
-  <body class="Site" id="HomeBody">
+  <body class="Site">
   
       <header>
           <div id="navbar">
@@ -71,7 +71,7 @@
 		
 	</main>
 	<footer>
-  <div class="footer" id="HomeFooter">
+  <div class="footer">
 	<div class="foot">
       Contact Information<br>
       <a href="">Phone: 999-888-0000</a><br>

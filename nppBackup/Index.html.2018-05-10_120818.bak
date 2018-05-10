@@ -4,10 +4,9 @@
     <title>H.O.P.E. House</title>
     <link href="style.css" rel="stylesheet" type="text/css"
   </head>
-  <body class="Site" id="HomeBody">
-  
-      <header>
-          <div id="navbar">
+  <body class=Site">
+      <header class="Site-Content">
+          <div class="row">
 		  <div class = "header-background">
             <div class="logo">
               <img src="FINALLOGO.png"
@@ -23,33 +22,25 @@
 		  </div>
           </div>
 		
-		</header>
-		<main class="Site-content">
+		
 		
 		<div class="hero">
 		<div class="hero-background">
 		<center>
-		<h1 class="white">H.O.P.E. House: Food and Clothing Ministry</h1>
-		<h2 class="white"><b>H</b>ope <b>O</b>pportunity <b>P</b>rayer and <b>E</b>ncouragement</h2>
+		<h1>H.O.P.E. House: Food and Clothing Ministry</h1>
+		<h2>Providing Hope Opportunity Prayer and Encouragement</h2>
 		</center>
 		<br>
 		<br>
 		<!--<h1>H</h1><span>ope </span><h1>O</h1><span>pportunity </span><h1>P</h1><span>rayer </span><h1>E</h1><span>ncouragement</span>-->
-		<center class ="white">
-		<b>Food and Clothing Distribution</b><br>
-		218 Pine Street | Brentwood, CA 94513<br>Mondays & Wednesdays: 9:00 AM to Noon<br>
-		<br>
-		<b>Donations</b><br>
-		809 Second Street | Brentwood, CA 94513<br>Sundays: Before 10:30 AM Service<br>
-
-		</center>
+		<center>218 Pine Street in Brentwood, CA<br>Open 9:00am to Noon, Mondays & Wednesdays</center>
 	
 		</p>
-		<!--<div class="button">
+		<div class="button">
 		  <button id="myBtn" class="btn btn-one">Learn More</button>
-
+		  <!-- The Modal -->
 			<div id="myModal" class="modal">
-
+				<!-- Modal content -->
 				<div class="modal-content">
 				  <span class="close">&times;</span>
 				  <p>Thank you for your interest in H.O.P.E. House, an affiliate of Brentwood Methodist Church
@@ -65,25 +56,12 @@
 				  </p>
 				</div>
 			  </div>
-			</div>-->
+			</div>
 		  </div>
 		  </div>
-		
-	</main>
-	<footer>
-  <div class="footer" id="HomeFooter">
-	<div class="foot">
-      Contact Information<br>
-      <a href="">Phone: 999-888-0000</a><br>
-      <a href="">Email: hopehouse@brentwoodumc.org</a><br>
-      <a href="">Address: 218 Pine Street, Brentwood, CA 94513</a><br>
-    </ul>
-	</div>
-  </div>
-  </footer>
-</body>
+		</header>
+
     <script>
-	//Code for button (No longer here)_________________________________
     // Get the modal
     var modal = document.getElementById('myModal');
     // Get the button that opens the modal
@@ -98,20 +76,17 @@
     window.onclick = function(event) {if (event.target == modal) {
     modal.style.display = "none";}
     }
-</script>
-	<script>
-	//Code for sticky menu___________________________________________
-	window.onscroll = function() {myFunction()};
-
-	var navbar = document.getElementById("navbar");
-	var sticky = navbar.offsetTop;
-
-	function myFunction() {
-	  if (window.pageYOffset >= sticky) {
-		navbar.classList.add("sticky")
-	  } else {
-		navbar.classList.remove("sticky");
-	  }
-	}
     </script>
+
+  </body>
+
+  <div class="footer">
+    <ul class="foot">
+      <li>Contact Information</li>
+      <li><a href="">Phone: 999-888-0000</a></li>
+      <li><a href="">Email: hopehouse@brentwoodumc.org</a></li>
+      <li><a href="">Address: 218 Pine Street, Brentwood, CA 94513</a></li>
+    </ul>
+  </div>
+
 </html>

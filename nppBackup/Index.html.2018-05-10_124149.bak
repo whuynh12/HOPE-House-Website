@@ -4,11 +4,11 @@
     <title>H.O.P.E. House</title>
     <link href="style.css" rel="stylesheet" type="text/css"
   </head>
-  <body class="Site" id="HomeBody">
-  
+  <body class=Site">
+  <div class = "header-background">
       <header>
           <div id="navbar">
-		  <div class = "header-background">
+		  
             <div class="logo">
               <img src="FINALLOGO.png"
             </div>
@@ -24,7 +24,7 @@
           </div>
 		
 		</header>
-		<main class="Site-content">
+		<main class="Site-Content">>
 		
 		<div class="hero">
 		<div class="hero-background">
@@ -70,18 +70,6 @@
 		  </div>
 		
 	</main>
-	<footer>
-  <div class="footer" id="HomeFooter">
-	<div class="foot">
-      Contact Information<br>
-      <a href="">Phone: 999-888-0000</a><br>
-      <a href="">Email: hopehouse@brentwoodumc.org</a><br>
-      <a href="">Address: 218 Pine Street, Brentwood, CA 94513</a><br>
-    </ul>
-	</div>
-  </div>
-  </footer>
-</body>
     <script>
 	//Code for button (No longer here)_________________________________
     // Get the modal
@@ -114,4 +102,16 @@
 	  }
 	}
     </script>
+
+ 
+
+  <div class="footer">
+    <ul class="foot">
+      <li>Contact Information</li>
+      <li><a href="">Phone: 999-888-0000</a></li>
+      <li><a href="">Email: hopehouse@brentwoodumc.org</a></li>
+      <li><a href="">Address: 218 Pine Street, Brentwood, CA 94513</a></li>
+    </ul>
+  </div>
+</body>
 </html>
