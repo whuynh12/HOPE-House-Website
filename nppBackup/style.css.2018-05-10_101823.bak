@@ -131,7 +131,7 @@ body
 {
 	background: rgba(0, 0, 0, 0.8); /* Black background with 80% opacity */
 	padding: 20px 50px 150px 50px;
-	width: 100%;
+	width: 80%;
 	height: 250px;
 	margin: auto;
 }

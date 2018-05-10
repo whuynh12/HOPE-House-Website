@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>H.O.P.E. House</title>
+    <title>Charity Website</title>
     <link href="style.css" rel="stylesheet" type="text/css"
   </head>
-  <body class=Site">
-      <header class="Site-Content">
+  <body>
+	  <div class="img-background">
+      <header>
           <div class="row">
             <div class="logo">
-              <img src="FINALLOGO.png"
+			<img src="FINALLOGO.png">
             </div>
 
           <ul class="main-nav">
@@ -19,11 +20,13 @@
             <li><a href=""> CONTACT </a></li>
           </ul>
           </div>
-	 
 		
+		</header>
+
 		<div class="hero">
-		<div class="hero-background">
+		<div class = "hero-background">
 		<h1>H</h1><span>ope </span><h1>O</h1><span>ppurtunity </span><h1>P</h1><span>rayer </span><h1>E</h1><span>ncouragement</span>
+		
 		<div class="button">
 		  <button id="myBtn" class="btn btn-one">Learn More</button>
 		  <!-- The Modal -->
@@ -44,10 +47,13 @@
 				  </p>
 				</div>
 			  </div>
-			</div>
-		  </div>
-		  </div>
-		</header>
+		</div>
+		
+		</div>
+		</div>
+		
+	</div><!--End Background Img-->
+		
 
     <script>
     // Get the modal

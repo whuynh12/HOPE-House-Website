@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>H.O.P.E. House</title>
+    <title>Charity Website</title>
     <link href="style.css" rel="stylesheet" type="text/css"
   </head>
-  <body class=Site">
-      <header class="Site-Content">
+  <body>
+      <header>
           <div class="row">
             <div class="logo">
               <img src="FINALLOGO.png"
@@ -20,9 +20,10 @@
           </ul>
           </div>
 	 
-		
+
 		<div class="hero">
-		<div class="hero-background">
+		
+
 		<h1>H</h1><span>ope </span><h1>O</h1><span>ppurtunity </span><h1>P</h1><span>rayer </span><h1>E</h1><span>ncouragement</span>
 		<div class="button">
 		  <button id="myBtn" class="btn btn-one">Learn More</button>
@@ -46,7 +47,7 @@
 			  </div>
 			</div>
 		  </div>
-		  </div>
+		
 		</header>
 
     <script>

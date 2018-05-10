@@ -112,31 +112,23 @@ body
 
 .row
 {
-  max-width: 90%;
+  max-width: 100%;
   margin: auto;
 }
 
 .hero
 {
-  width: 100%;
+  width: 80%;
   margin: auto;
   text-align: center;
-  display: flex;
-  align-items: center;
-  padding: 20px 0px 50px 0px;
 
 }
 
 .hero-background
 {
 	background: rgba(0, 0, 0, 0.8); /* Black background with 80% opacity */
-	padding: 20px 50px 150px 50px;
-	width: 100%;
-	height: 250px;
-	margin: auto;
+	padding: 50px 50px 50px 50px;
 }
-
-
 
 h1
 {
