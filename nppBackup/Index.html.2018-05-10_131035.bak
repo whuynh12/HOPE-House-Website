@@ -7,7 +7,7 @@
   </head>
   <body class="Site" id="HomeBody">
   
-      <header style="height: 96px; display:block;">
+      <header style="height: 96px">
           <div id="navbar">
 		  <div class = "header-background">
             <div class="logo">

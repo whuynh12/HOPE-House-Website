@@ -24,12 +24,8 @@
 </header>
 <main class="Site-content">
 
-<div class="flex-grid-halves">
-<div class="col-1">
-<img src="BannerImage.jpg" style="width: 100%">
-</div>
-<div class="col-2">
-<p>
+
+	<p>
 	Formed in October 2011, H.O.P.E. has been a USDA Approved member since 2013, which qualifies us to participate in Special Nutrition Program for “Women, Infants, and Children” (WIC). We currently support over 400 households representing more than 1400 men, women, and children in need.
 We recognize that it is difficult for some of our clients to admit that they need help, but we do what we can to treat them with dignity and respect. We welcome each client into the H.O.P.E. family and create strong bonds with them and their families. 
 Clients are required to register to be eligible for our services. Once qualified, each client is entitled to receive a bag filled with staple grocery items from the Contra Costa Food Bank once a month. A client with more than 6 members in household is entitled to 2 bags.
@@ -74,10 +70,6 @@ The Bible says that by serving these dear people we are actually serving Him bec
 With that kind of vision, we might imagine the work of HOPE House not only to be worth whatever time and resources we invest in it, but there’s absolutely nothing on earth we could do with our time that would be more valuable or ultimately rewarding.
 
 	</p>
-</div>
-</div>
-
-	
 	
 </main>
 <footer>

@@ -273,7 +273,7 @@ span
 }
 
 #navbar {
-	display: block;
+	overflow: hidden;
 }
 
 .content{
@@ -285,35 +285,4 @@ padding-top: 96px;
   top: 0;
   width: 100%;
 }
-.sticky + .content {
-  padding-top: 96px;
-}
 
-
-.flex-grid-halves {
-		  display: flex;
-		  justify-content: space-between;
-		}
-		
-		.flex-grid-halves .col-1 {
-		  width: 39%;
-		}
-		
-		.flex-grid-halves .col-2 {
-		  width: 59%;
-		}
-
-		@media (max-width: 700px) {
-		  .flex-grid,
-		  .flex-grid-halves {
-			display: block;
-			}
-			.flex-grid-halves .col-1 {
-			  width: 100%;
-			  margin: 0 0 0 0;
-			}
-			.flex-grid-halves .col-2 {
-			  width: 100%;
-			  margin: 0 0 0 0;
-			}
-		  }

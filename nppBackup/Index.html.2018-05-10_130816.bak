@@ -2,12 +2,11 @@
 <html>
   <head>
     <title>H.O.P.E. House</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="style.css" rel="stylesheet" type="text/css"
   </head>
   <body class="Site" id="HomeBody">
   
-      <header style="height: 96px; display:block;">
+      <header>
           <div id="navbar">
 		  <div class = "header-background">
             <div class="logo">

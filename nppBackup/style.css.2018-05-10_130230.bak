@@ -124,8 +124,8 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(B
 
 .logo img
 {
-  height: 96px;
-  width: auto
+  width: auto;
+  height: 96px
   float: left;
 }
 
@@ -273,11 +273,6 @@ span
 }
 
 #navbar {
-	display: block;
-}
-
-.content{
-padding-top: 96px;
 }
 
 .sticky {
@@ -285,35 +280,7 @@ padding-top: 96px;
   top: 0;
   width: 100%;
 }
-.sticky + .content {
-  padding-top: 96px;
+
+.sticky + .Site-content {
+  padding-top: 60px;
 }
-
-
-.flex-grid-halves {
-		  display: flex;
-		  justify-content: space-between;
-		}
-		
-		.flex-grid-halves .col-1 {
-		  width: 39%;
-		}
-		
-		.flex-grid-halves .col-2 {
-		  width: 59%;
-		}
-
-		@media (max-width: 700px) {
-		  .flex-grid,
-		  .flex-grid-halves {
-			display: block;
-			}
-			.flex-grid-halves .col-1 {
-			  width: 100%;
-			  margin: 0 0 0 0;
-			}
-			.flex-grid-halves .col-2 {
-			  width: 100%;
-			  margin: 0 0 0 0;
-			}
-		  }

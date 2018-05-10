@@ -26,7 +26,7 @@
 
 <div class="flex-grid-halves">
 <div class="col-1">
-<img src="BannerImage.jpg" style="width: 100%">
+<img src="BannerImage.jpg" >
 </div>
 <div class="col-2">
 <p>
