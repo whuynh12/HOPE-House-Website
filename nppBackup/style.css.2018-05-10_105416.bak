@@ -116,10 +116,6 @@ body
   margin: auto;
 }
 
-.header-background{
-  background: rgba(0, 0, 0, 0.8); /* Black background with 80% opacity */
-}
-
 .hero
 {
   width: 100%;

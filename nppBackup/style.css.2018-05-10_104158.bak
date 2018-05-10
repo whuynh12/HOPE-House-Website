@@ -116,10 +116,6 @@ body
   margin: auto;
 }
 
-.header-background{
-  background: rgba(0, 0, 0, 0.8); /* Black background with 80% opacity */
-}
-
 .hero
 {
   width: 100%;
@@ -133,8 +129,8 @@ body
 
 .hero-background
 {
-	background: rgba(256, 256, 256, 0.8); /* Black background with 80% opacity */
-	padding: 50px 25px 50px 25px;
+	background: rgba(256, 256, 256, 0.6); /* Black background with 80% opacity */
+	padding: 0px 25px 50px 25px;
 	width: auto;
 
 	margin: auto;
@@ -142,15 +138,13 @@ body
 
 
 
-/*h1
+h1
 {
   color: Red;
   font-size: 50px;
   margin-top: 150px;
   display: inline-block;
-}*/
-
-
+}
 
 span
 {
