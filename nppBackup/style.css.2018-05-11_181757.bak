@@ -325,11 +325,11 @@ padding-top: 96px;
 			.flex-grid-halves .col-1 {
 			  width: 90%;
 			  margin: 0 0 0 0;
-			  padding:2%;
+			  padding:10;
 			}
 			.flex-grid-halves .col-2 {
 			  width: 90%;
 			  margin: 0 0 0 0;
-			  padding:2%;
+			  padding:10;
 			}
 		  }

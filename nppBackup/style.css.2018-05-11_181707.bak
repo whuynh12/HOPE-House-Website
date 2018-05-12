@@ -323,13 +323,13 @@ padding-top: 96px;
 			display: block;
 			}
 			.flex-grid-halves .col-1 {
-			  width: 90%;
+			  width: 98%;
 			  margin: 0 0 0 0;
-			  padding:2%;
+			  padding:10;
 			}
 			.flex-grid-halves .col-2 {
-			  width: 90%;
+			  width: 98%;
 			  margin: 0 0 0 0;
-			  padding:2%;
+			  padding:10;
 			}
 		  }

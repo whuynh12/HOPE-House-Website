@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>H.O.P.E. House</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body class="Site">
+<header>
+  <div id="navbar">
+		  <div class = "header-background">
+            <a href="index.html">
+			<div class="logo">
+              <img src="FINALLOGO.png"
+            </div>
+			</a>
+
+          <ul class="main-nav">
+            <li class=><a href=""> ABOUT </a></li>
+            <li><a href=""> SERVICES </a></li>
+            <li><a href=""> DONATE </a></li>
+            <li><a href=""> VOLUNTEER </a></li>
+            <li><a href=""> CONTACT </a></li>
+          </ul>
+		  </div>
+          </div>
+</header>
+<main class="Site-content">
+<div class="flex-grid-halves">
+<div class="col-1">
+<img src="BannerImage.jpg" style="width: 100%">
+</div>
+<div class="col-2">
+<h1 class="red">About H.O.P.E. House</h1>
+<p>
+	Formed in October 2011, H.O.P.E. has been a USDA Approved member since 2013, which qualifies us to participate in Special Nutrition Program for “Women, Infants, and Children” (WIC). We currently support over 400 households representing more than 1400 men, women, and children in need.
+We recognize that it is difficult for some of our clients to admit that they need help, but we do what we can to treat them with dignity and respect. We welcome each client into the H.O.P.E. family and create strong bonds with them and their families. 
+Clients are required to register to be eligible for our services. Once qualified, each client is entitled to receive a bag filled with staple grocery items from the Contra Costa Food Bank once a month. A client with more than 6 members in household is entitled to 2 bags.
+Clients are also allowed to return once a week to receive extra food from supplies stocked on shelves and in crates at our facility. We also have gently used clothing for those in need.
+Some of our volunteers were once clients who have been able to carry themselves out of their difficult time through our services. Now they want to give back to the community by offering other people the services that formerly was offered to them.
+About 20 volunteers make up the HOPE house team, with occasional assistance from Liberty High School students earning community volunteer credits. We also have some volunteers that are participants in the Gateway Program. This is a project run by Liberty Adult Education that serves 18-22 year-old students with disabilities. Serving at HOPE is an ideal way to engage these students in the community-based instruction and community awareness activities that are foundational elements in their Gateway curriculum.
+Board of directors of HOPE House Ministries: Dennis Buckly
+Project manager: Kathie Gulizi
+Leaders: Jef Schultz and Julius Lukacs
+The Bible says that by serving these dear people we are actually serving Him because Jesus described the final judgment in terms of service:
+“‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink? When did we see you a stranger and invite you in, or needing clothes and clothe you…?’ The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’”
+With that kind of vision, we might imagine the work of HOPE House not only to be worth whatever time and resources we invest in it, but there’s absolutely nothing on earth we could do with our time that would be more valuable or ultimately rewarding.
+
+	</p>
+		<p>
+	Formed in October 2011, H.O.P.E. has been a USDA Approved member since 2013, which qualifies us to participate in Special Nutrition Program for “Women, Infants, and Children” (WIC). We currently support over 400 households representing more than 1400 men, women, and children in need.
+We recognize that it is difficult for some of our clients to admit that they need help, but we do what we can to treat them with dignity and respect. We welcome each client into the H.O.P.E. family and create strong bonds with them and their families. 
+Clients are required to register to be eligible for our services. Once qualified, each client is entitled to receive a bag filled with staple grocery items from the Contra Costa Food Bank once a month. A client with more than 6 members in household is entitled to 2 bags.
+Clients are also allowed to return once a week to receive extra food from supplies stocked on shelves and in crates at our facility. We also have gently used clothing for those in need.
+Some of our volunteers were once clients who have been able to carry themselves out of their difficult time through our services. Now they want to give back to the community by offering other people the services that formerly was offered to them.
+About 20 volunteers make up the HOPE house team, with occasional assistance from Liberty High School students earning community volunteer credits. We also have some volunteers that are participants in the Gateway Program. This is a project run by Liberty Adult Education that serves 18-22 year-old students with disabilities. Serving at HOPE is an ideal way to engage these students in the community-based instruction and community awareness activities that are foundational elements in their Gateway curriculum.
+Board of directors of HOPE House Ministries: Dennis Buckly
+Project manager: Kathie Gulizi
+Leaders: Jef Schultz and Julius Lukacs
+The Bible says that by serving these dear people we are actually serving Him because Jesus described the final judgment in terms of service:
+“‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink? When did we see you a stranger and invite you in, or needing clothes and clothe you…?’ The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’”
+With that kind of vision, we might imagine the work of HOPE House not only to be worth whatever time and resources we invest in it, but there’s absolutely nothing on earth we could do with our time that would be more valuable or ultimately rewarding.
+
+	</p>
+		<p>
+	Formed in October 2011, H.O.P.E. has been a USDA Approved member since 2013, which qualifies us to participate in Special Nutrition Program for “Women, Infants, and Children” (WIC). We currently support over 400 households representing more than 1400 men, women, and children in need.
+We recognize that it is difficult for some of our clients to admit that they need help, but we do what we can to treat them with dignity and respect. We welcome each client into the H.O.P.E. family and create strong bonds with them and their families. 
+Clients are required to register to be eligible for our services. Once qualified, each client is entitled to receive a bag filled with staple grocery items from the Contra Costa Food Bank once a month. A client with more than 6 members in household is entitled to 2 bags.
+Clients are also allowed to return once a week to receive extra food from supplies stocked on shelves and in crates at our facility. We also have gently used clothing for those in need.
+Some of our volunteers were once clients who have been able to carry themselves out of their difficult time through our services. Now they want to give back to the community by offering other people the services that formerly was offered to them.
+About 20 volunteers make up the HOPE house team, with occasional assistance from Liberty High School students earning community volunteer credits. We also have some volunteers that are participants in the Gateway Program. This is a project run by Liberty Adult Education that serves 18-22 year-old students with disabilities. Serving at HOPE is an ideal way to engage these students in the community-based instruction and community awareness activities that are foundational elements in their Gateway curriculum.
+Board of directors of HOPE House Ministries: Dennis Buckly
+Project manager: Kathie Gulizi
+Leaders: Jef Schultz and Julius Lukacs
+The Bible says that by serving these dear people we are actually serving Him because Jesus described the final judgment in terms of service:
+“‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink? When did we see you a stranger and invite you in, or needing clothes and clothe you…?’ The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’”
+With that kind of vision, we might imagine the work of HOPE House not only to be worth whatever time and resources we invest in it, but there’s absolutely nothing on earth we could do with our time that would be more valuable or ultimately rewarding.
+
+	</p>
+</div>
+</div>
+
+	
+	
+</main>
+<footer>
+	<div class="footer">
+		<div class="foot">
+		  Contact Information<br>
+		  <a href="">Phone: 999-888-0000</a><br>
+		  <a href="">Email: hopehouse@brentwoodumc.org</a><br>
+		  <a href="">Address: 218 Pine Street, Brentwood, CA 94513</a><br>
+		</ul>
+		</div>
+	</div>
+</footer>
+</body>
+<!--<script>
+	//Code for sticky menu___________________________________________
+	window.onscroll = function() {myFunction()};
+
+	var navbar = document.getElementById("navbar");
+	var sticky = navbar.offsetTop;
+
+	function myFunction() {
+	  if (window.pageYOffset >= sticky) {
+		navbar.classList.add("sticky")
+	  } else {
+		navbar.classList.remove("sticky");
+	  }
+	}
+</script>-->
+</html>

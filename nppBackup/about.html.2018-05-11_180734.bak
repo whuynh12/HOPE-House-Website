@@ -25,22 +25,18 @@
           </div>
 </header>
 <main class="Site-content">
-<br>
 <div class="flex-grid-halves">
 <div class="col-1">
 <img src="BannerImage.jpg" style="width: 100%; padding: 0px 20px 0px 20px">
-<br><br>
-<img src="sponsors.png" style="width: 100%; padding: 0px 20px 0px 20px">
 </div>
 <div class="col-2">
 <h1 class="red">About H.O.P.E. House</h1>
 <br>
-<h2 class="black">What We Do</h2>
 <p>Formed in October 2011, H.O.P.E. has been a USDA Approved member since 2013, which qualifies us to participate
 in Special Nutrition Program for “Women, Infants, and Children” (WIC). We currently support over 400 households
 representing more than 1400 men, women, and children in need.</p>
 <br>
-
+<h2 class="black">What We Do</h2>
 <p>At H.O.P.E. House, we look to help anyone who walks through our doors. We welcome each client and create strong bonds with
 them and their families. To be eligible for some our services, new clients are asked to register to demonstrate that they are need of
 financial assistance. Once qualified, each client is entitled to receive a monthly bag filled with staple grocery items from
@@ -49,7 +45,7 @@ return once a week to receive extra food from supplies stocked on shelves and in
 used clothing for those in need.</p>
 <br>
 
-<br><h2 class="black">Who We Are</h2>
+<h2 class="black">Who We Are</h2>
 <p>Some of our volunteers were once clients who have been able to carry themselves out of their difficult time through our services.
 Now they want to give back to the community by offering other people the services that formerly was offered to them. About 20 volunteers
 make up the HOPE house team.</p> 
@@ -65,7 +61,7 @@ Project manager: Kathie Gulizi
 Leaders: Jef Schultz and Julius Lukacs</p>
 <br>
 
-<br><h2 class="black">Why We Help</h2>
+<h2 class="black">Why We Help</h2>
 <p>
 The Bible says that by serving these dear people we are actually serving Him because Jesus described the final judgment in terms of service:</p>
 <br>
