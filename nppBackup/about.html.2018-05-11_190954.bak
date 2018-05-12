@@ -28,10 +28,10 @@
 <br>
 <div class="flex-grid-halves">
 <div class="col-1" style="padding: 0px 20px 0px 20px">
-<img src="staff2.jpg" style="width: 100%; border: 1px solid #ddd; padding: 5px;">
+<img src="staff2.jpg" style="width: 100%; border: 1px solid #bbb; padding: 5px;">
 <h2 class="red">OUR STAFF</h2><p>All of the staff at H.O.P.E. House are volunteers from the local community.</p>
 <br><br>
-<img src="sponsors.png" style="width: 100%; border: 1px solid #ddd; padding: 5px;">
+<img src="sponsors.png" style="width: 100%; padding: 5px;">
 <h2 class="red">OUR SPONSORS</h2><p>H.O.P.E. House depends largely on support from our sponsors, as well as donations from the local community.</p>
 </div>
 <div class="col-2">

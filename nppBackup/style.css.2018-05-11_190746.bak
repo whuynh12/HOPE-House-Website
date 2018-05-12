@@ -127,7 +127,7 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(B
   height: 96px;
   width: auto
   float: left;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 body
