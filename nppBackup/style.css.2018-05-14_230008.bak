@@ -114,7 +114,7 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.35)), url(B
 }
 .main-nav li.active a
 {
-	color:red;
+  border: 1px solid white;
 }
 
 .main-nav li a:hover
